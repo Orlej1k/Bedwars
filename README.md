@@ -52,6 +52,10 @@ You can put the blocks you want players to be able to break/place
 
 You must use only blocks from this [list](https://helpch.at/docs/1.16.5/org/bukkit/Material.html)
 
+**-** **`locations.yml`**
+
+You must insert the spawnpoint of the team and location of the bed into this config (since the bed is divided into two blocks, you need to insert the coordinates of these two blocks)
+
 ## Developers
 
 - [Orlej1k](https://github.com/Orlej1k)

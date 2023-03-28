@@ -64,6 +64,39 @@ It's time after death
 
 As said in "**about**" the game has 4 types of item spawner (iron, gold, diamond, emerald). Here you can add spawners for each type
 
+```
+  IRON:
+    timeForDrop: 10
+    spawnItems: 4
+    Spawner1:
+      X: 8
+      Y: 14
+      Z: -54
+```
+
+***timeForDrop*** - seconds for drop
+
+***spawnItems*** - amount of items
+
+If you want to add another spawner, just create (add) it to the config
+For example:
+
+```
+  IRON:
+    timeForDrop: 10
+    spawnItems: 4
+    Spawner1:
+      X: 8
+      Y: 14
+      Z: -54
+    Spawner2:
+      X: 0
+      Y: 0
+      Z: 0
+```
+
+The name of the new spawner can be anything except timeForDrop and spawnItems. That is, you can write something else instead of Spawner2
+
 ## Developers
 
 - [Orlej1k](https://github.com/Orlej1k)

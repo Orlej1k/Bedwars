@@ -40,6 +40,10 @@ Game logic: there are only 4 teams. All players are divided into teams, each tea
 
 **-** **`bw.getItem`** - allows to get spawner item(iron, gold, etc).
 
+## Configs
+
+
+
 ## Developers
 
 - [Orlej1k](https://github.com/Orlej1k)

@@ -42,7 +42,15 @@ Game logic: there are only 4 teams. All players are divided into teams, each tea
 
 ## Configs
 
+**-** **`blocks.yml`**
 
+You can put the blocks you want players to be able to break/place
+
+**canBreak** - player can break block
+
+**NoPlace** - player can't place block
+
+You must use only blocks from this [list](https://helpch.at/docs/1.16.5/org/bukkit/Material.html)
 
 ## Developers
 

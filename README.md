@@ -56,6 +56,12 @@ You must use only blocks from this [list](https://helpch.at/docs/1.16.5/org/bukk
 
 You must insert the spawnpoint of the team and location of the bed into this config (since the bed is divided into two blocks, you need to insert the coordinates of these two blocks)
 
+**-** **`other.yml`**
+
+It's time after death
+
+**-** **`spawnerLocations.yml`**
+
 ## Developers
 
 - [Orlej1k](https://github.com/Orlej1k)

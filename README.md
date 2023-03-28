@@ -62,6 +62,8 @@ It's time after death
 
 **-** **`spawnerLocations.yml`**
 
+As said in "**about**" the game has 4 types of item spawner (iron, gold, diamond, emerald). Here you can add spawners for each type
+
 ## Developers
 
 - [Orlej1k](https://github.com/Orlej1k)

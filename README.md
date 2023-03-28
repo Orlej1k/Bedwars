@@ -10,7 +10,7 @@
 
 Creating game: when you create a new game, a new world is created with the name BW-(id), for example BW-1 (or overwritten if it already exists in the server folder)
 
-Game logic: there are only 4 teams. All players are divided into teams, each team has a bed. If the player dies, he will spawn after some time (which is set in the config), if the bed is broken, then he will simply turn into a spectator. There is also a system of drop spawners, there are 4 spawners in total (iron, gold, diamond and emerald). The player can break/put only some blocks (which were set in the config, for example: wool and red bed)
+Game logic: there are only 4 teams. All players are divided into teams, each team has a bed. If the player dies, he will spawn after some time (which is set in the config). If the bed is broken, he will simply turn into a spectator. There is also a system of drop spawners, there are 4 spawners in total (iron, gold, diamond and emerald). The player can break/put only some blocks (which were set in the config, for example: wool and red bed)
 
 ## Commands
 

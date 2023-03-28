@@ -16,7 +16,7 @@ Game logic: there are only 4 teams. All players are divided into teams, each tea
 
 **-** **`/bw`** - check commands.
 
-**-** **`/bw create`** - create game(arena).
+**-** **`/bw create`** - create the game(arena).
 
 **-** **`/bw join`** - join the game.
 
@@ -24,14 +24,22 @@ Game logic: there are only 4 teams. All players are divided into teams, each tea
 
 **-** **`/bw getItem`** - get spawner item(iron, gold, etc).
 
-**-** **`/bw tp`** - tp to **original** world.
+**-** **`/bw tp`** - tp to the **original** world.
 
 **-** **`/bw list`** - list of arenas.
 
 ## Permissions
 
+**-** **`bw.create`** - allows to create the arena.
 
+**-** **`bw.join`** - allows to join the arena.
+
+**-** **`bw.delete`** - allows to delete the arena.
+
+**-** **`bw.tp`** - allows to tp to the **original** world.
+
+**-** **`bw.getItem`** - allows to get spawner item(iron, gold, etc).
 
 ## Developers
 
-- [Delevoper Name](GitHub Profile Link)
+- [Orlej1k](GitHub Profile Link)

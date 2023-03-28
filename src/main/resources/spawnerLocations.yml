@@ -1,0 +1,61 @@
+SpawnerTypes:
+  IRON:
+    timeForDrop: 10
+    spawnItems: 4
+    Spawner1:
+      X: 8
+      Y: 14
+      Z: -54
+    Spawner2:
+      X: 70
+      Y: 14
+      Z: 7
+    Spawner3:
+      X: 8
+      Y: 14
+      Z: 70
+    Spawner4:
+      X: -55
+      Y: 14
+      Z: 7
+  GOLD:
+    timeForDrop: 10
+    spawnItems: 4
+    Spawner1:
+      X: 8
+      Y: 14
+      Z: -54
+    Spawner2:
+      X: 70
+      Y: 14
+      Z: 7
+    Spawner3:
+      X: 8
+      Y: 14
+      Z: 70
+    Spawner4:
+      X: -55
+      Y: 14
+      Z: 7
+  DIAMOND:
+    timeForDrop: 10
+    spawnItems: 4
+    Spawner1:
+      X: -33
+      Y: 13
+      Z: 49
+    Spawner2:
+      X: 49
+      Y: 13
+      Z: -33
+  EMERALD:
+    timeForDrop: 10
+    spawnItems: 4
+    Spawner1:
+      X: 17
+      Y: 12
+      Z: 17
+    Spawner2:
+      X: -2
+      Y: 12
+      Z: -2

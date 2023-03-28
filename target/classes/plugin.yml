@@ -1,0 +1,22 @@
+name: BedWars
+version: '1.0'
+main: ua.bedwars.BedWars
+api-version: 1.16
+author: Orlej1k
+commands:
+  bw:
+    usage: /bw
+    description: Commands for BedWars
+permissions:
+  bw.create:
+    default: op
+    description: Create new arena
+  bw.join:
+    default: op
+    description: Join arena
+  bw.delete:
+    default: op
+    description: Delete arena
+  bw.list:
+    default: op
+    description: List of arenas

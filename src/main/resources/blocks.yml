@@ -1,0 +1,8 @@
+canBreak:
+  - RED_WOOL
+  - BLUE_WOOL
+  - GREEN_WOOL
+  - YELLOW_WOOL
+  - RED_BED
+NoPlace:
+  - ACACIA_BOAT

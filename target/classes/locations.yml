@@ -1,0 +1,54 @@
+Teams:
+  Red:
+    SpawnLocation:
+      X: 66
+      Y: 14
+      Z: 7
+    BedBlock1Location:
+      X: 58
+      Y: 14
+      Z: 7
+    BedBlock2Location:
+      X: 59
+      Y: 14
+      Z: 7
+  Blue:
+    SpawnLocation:
+      X: 8
+      Y: 14
+      Z: 66
+    BedBlock1Location:
+      X: 8
+      Y: 14
+      Z: 58
+    BedBlock2Location:
+      X: 8
+      Y: 14
+      Z: 59
+  Green:
+    SpawnLocation:
+      X: -50
+      Y: 14
+      Z: 7
+    BedBlock1Location:
+      X: -42
+      Y: 14
+      Z: 7
+    BedBlock2Location:
+      X: -43
+      Y: 14
+      Z: 7
+  Yellow:
+    SpawnLocation:
+      X: 8
+      Y: 14
+      Z: 50
+    BedBlock1Location:
+      X: 8
+      Y: 14
+      Z: -42
+    BedBlock2Location:
+      X: 8
+      Y: 14
+      Z: -43
+

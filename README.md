@@ -42,4 +42,4 @@ Game logic: there are only 4 teams. All players are divided into teams, each tea
 
 ## Developers
 
-- [Orlej1k](GitHub Profile Link)
+- [Orlej1k](https://github.com/Orlej1k)

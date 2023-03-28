@@ -79,6 +79,7 @@ As said in "**about**" the game has 4 types of item spawner (iron, gold, diamond
 ***spawnItems*** - amount of items
 
 If you want to add another spawner, just create (add) it to the config
+
 For example:
 
 ```

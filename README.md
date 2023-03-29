@@ -104,7 +104,7 @@ The name of the new spawner can be anything except timeForDrop and spawnItems. T
 
 ## Important
 
-**You must rename the game map to 'world_bedwars'**
+You must rename the game map to **'world_bedwars'**
 
 ## Developers
 

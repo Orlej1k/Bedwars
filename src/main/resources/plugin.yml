@@ -20,3 +20,6 @@ permissions:
   bw.list:
     default: op
     description: List of arenas
+  bw.getItem:
+    default: op
+    description: Get custom item(iron, gold, diamond or emerald)

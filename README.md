@@ -4,6 +4,10 @@
 
 <p align="center">
    <img src="https://img.shields.io/badge/Version-1.16.5--1.19.4-blue" alt="Version">
+   <a href="https://mega.nz/file/mUBDSTzA#GN8zW9bM3O9a5lQqaGL0f4kbRR7eodBznApMfXpLrGk">
+  <img src="https://img.shields.io/badge/-Download-red"
+       alt="Download">
+</a>
 </p>
 
 ## About

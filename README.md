@@ -102,6 +102,10 @@ For example:
 
 The name of the new spawner can be anything except timeForDrop and spawnItems. That is, you can write something else instead of Spawner2
 
+## Important
+
+**You must rename the game map to 'world_bedwars'**
+
 ## Developers
 
 - [Orlej1k](https://github.com/Orlej1k)
